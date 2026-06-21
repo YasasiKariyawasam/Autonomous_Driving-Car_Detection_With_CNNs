@@ -1,0 +1,6 @@
+- Understand how to **represent and work with bounding boxes** in images.  
+- Apply YOLO to detect **cars and other road objects** in realistic driving scenarios.  
+- Experiment with **confidence thresholds, class filtering, and detection statistics** to see how model parameters affect results.  
+- Visualize **CNN feature maps (activation heatmaps)** to gain intuition about how detectors “see” objects.  
+- Analyze results to discuss **false positives, false negatives, and model sensitivity**.
+- DL lab4
